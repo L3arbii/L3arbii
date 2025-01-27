@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l3arbii&label=Profile%20views&color=0e75b6&style=flat" alt="l3arbii" /> </p>
 <img align="right" alt="coding" width="400" src="https://h.top4top.io/p_3313ymz0t1.gif">
 
-- 💬 Ask About **Html, Jave, Js, Bootstrap, MySql, Php,**
+- 💬 Ask About **Html, Css, Bootstrap, Jave, Js, MySql, Php,**
 
 - ⚡ Fun fact **I am Funny**
 
